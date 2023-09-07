@@ -1,0 +1,7 @@
+C:\Users\Я\Documents\сын прогер горе в семье\Project2\Homework\ForLesson1\bin\Debug\ForLesson1.exe.config
+C:\Users\Я\Documents\сын прогер горе в семье\Project2\Homework\ForLesson1\bin\Debug\ForLesson1.exe
+C:\Users\Я\Documents\сын прогер горе в семье\Project2\Homework\ForLesson1\bin\Debug\ForLesson1.pdb
+C:\Users\Я\Documents\сын прогер горе в семье\Project2\Homework\ForLesson1\obj\Debug\HOMEWORKforLesson1.csproj.AssemblyReference.cache
+C:\Users\Я\Documents\сын прогер горе в семье\Project2\Homework\ForLesson1\obj\Debug\HOMEWORKforLesson1.csproj.CoreCompileInputs.cache
+C:\Users\Я\Documents\сын прогер горе в семье\Project2\Homework\ForLesson1\obj\Debug\ForLesson1.exe
+C:\Users\Я\Documents\сын прогер горе в семье\Project2\Homework\ForLesson1\obj\Debug\ForLesson1.pdb
